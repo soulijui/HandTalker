@@ -1,0 +1,1 @@
+Nrows = numel(textread('dictionary.txt','%1c%*[^\n]'))
